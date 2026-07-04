@@ -34,5 +34,5 @@ reports/
 .vscode/
 .DS_Store
 
-# Personal notes — never commit
-docs/private/
+# Local scratch notes
+docs/notes/
